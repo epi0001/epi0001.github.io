@@ -1,0 +1,111 @@
+
+h1 {
+    color: #000;
+    font-family: 'Roboto', serif;
+    font-size: 48px
+}
+
+h2 {
+    color: #000;
+    font-family: 'Roboto', serif;
+    font-size: 24px;
+    margin-left: 50px;
+}
+
+p {
+    color: #000;
+    font-family: 'Roboto', serif;
+    font-size: 24px;
+    margin-left: 50px;
+}
+
+body {
+    padding: .5%;
+}
+
+                                        /*Nav Bar*/
+
+.navBar {
+    color: #000;
+    font-family: 'Roboto', serif;
+    font-size: 24px;
+    text-align: center;
+}
+
+.navLink {
+  color: #000;
+  text-decoration: none;
+  font-family: "Roboto";
+  font-size: 1.2em;
+  padding: 14px 20px;
+}
+
+#about {
+    color: #ff8f8f;
+    text-shadow: 2px 2px #000;
+}
+
+#merch {
+    color: #ffd48f;
+    text-shadow: 2px 2px #000;
+}
+
+#sound {
+    color: #a3fffc;
+    text-shadow: 2px 2px #000;
+}
+
+#album {
+    color: #cdff75;
+    text-shadow: 2px 2px #000;
+}
+
+#home {
+    color: #9d70ff;
+    text-shadow: 2px 2px #000;
+}
+
+                                        /* Brungus Top Right*/
+
+#brungus {
+  position: absolute;
+  top: 7px;
+  right: 2%;
+  margin-top: 6px;
+}
+
+                                        /*Main Text Formatting*/
+
+.biography {
+    margin: 2% 5%;
+    max-width: 60%;
+    font-family: 'Open Sans';
+}
+
+.jacBio {
+    margin: 2% 5%;
+    max-width: 60%;
+    font-family: 'Open Sans';
+}
+
+.jaxBio  {
+    margin: 2% 5%;
+    max-width: 60%;
+    font-family: 'Open Sans';
+}
+
+.jaxtrapBio {
+    margin: 2% 5%;
+    max-width: 60%;
+    font-family: 'Open Sans';
+}
+
+                                        /*Album Art*/
+
+.albumArt {
+    text-align: center;
+    display: block;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+}
